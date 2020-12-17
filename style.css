@@ -217,3 +217,23 @@
   flex-direction: column;
   justify-content: flex-end;
 }
+
+#wel {
+  position:absolute;
+  top: 108px;
+  left: 278px;
+}
+@media screen and (min-width: 700px) {
+ #wel {
+     position:absolute;
+     top: 108px;
+     left: 250px;
+ }
+}
+@media screen and (min-width:701px) and (max-width: 1600px) {
+ #wel {
+     position:absolute;
+     top: 108px;
+     left: 400px;
+ }
+}
