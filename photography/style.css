@@ -1,11 +1,8 @@
+body{
+  background-size: cover;
+  background-position: center;
+}
 
-* {
-  box-sizing: border-box;
-}
-div {
-  resize: horizontal;
-  overflow: auto;
-}
 .home {
   color: black;
   font-family: "Montserrat-Bold", Helvetica, Arial, serif;

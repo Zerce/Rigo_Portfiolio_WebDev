@@ -1,9 +1,6 @@
-* {
-  box-sizing: border-box;
-}
-div {
-  resize: horizontal;
-  overflow: auto;
+body{
+  background-size: cover;
+  background-position: center;
 }
 .border_class2 {
   border: 4px solid var(--saffron-mango);
