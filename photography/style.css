@@ -1,0 +1,121 @@
+
+* {
+  box-sizing: border-box;
+}
+.home {
+  color: black;
+  font-family: "Montserrat-Bold", Helvetica, Arial, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+}
+.photography {
+  background-color: white;
+  height: 100vh;
+  margin: 0px;
+  min-height: 3222px;
+  min-width: 1444px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+.photography .home {
+  background-color: transparent;
+  height: 46px;
+  left: 1243px;
+  letter-spacing: 0px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 27px;
+  width: 149px;
+}
+.photography .rectangle2{
+  background-color: var(--saffron-mango);
+  border-radius: 30px;
+  height: 46px;
+  left: 1243px;
+  position: absolute;
+  top: 27px;
+  width: 147px;
+}
+.photography .rectangle{
+  background-color: transparent;
+  height: 810px;
+  left: -1343px;
+  position: absolute;
+  top: 1935px;
+  width: 793px;
+}
+.photography .rigoc271517810016{
+  background-color: transparent;
+  height: 476px;
+  left: 771px;
+  position: absolute;
+  top: 168px;
+  width: 602px;
+}
+.photography .rigoc271519765106{
+  background-color: transparent;
+  height: 695px;
+  left: 849px;
+  position: absolute;
+  top: 714px;
+  width: 492px;
+}
+.photography .rigoc271525743302{
+  background-color: transparent;
+  height: 610px;
+  left: 89px;
+  position: absolute;
+  top: 168px;
+  width: 559px;
+}
+.photography .rigoc271530959056{
+  background-color: transparent;
+  height: 689px;
+  left: 74px;
+  position: absolute;
+  top: 1392px;
+  width: 689px;
+}
+.photography .rigoc271545806055{
+  background-color: transparent;
+  height: 746px;
+  left: 65px;
+  position: absolute;
+  top: 2156px;
+  width: 698px;
+}
+.photography .rigoc271563486726{
+  background-color: transparent;
+  height: 403px;
+  left: 74px;
+  position: absolute;
+  top: 849px;
+  width: 589px;
+}
+.photography .rigoc271582582483{
+  background-color: transparent;
+  height: 708px;
+  left: 849px;
+  position: absolute;
+  top: 1494px;
+  width: 539px;
+}
+.photography .rigoc271592849983{
+  background-color: transparent;
+  height: 870px;
+  left: 784px;
+  position: absolute;
+  top: 2262px;
+  width: 648px;
+}
+:root {
+  --saffron-mango: rgba(252, 191, 73, 1);
+}
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
