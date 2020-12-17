@@ -1,6 +1,5 @@
 body{
-  background-size: cover;
-  background-position: center;
+  background-attachment: fixed;
 }
 .border_class2 {
   border: 4px solid var(--saffron-mango);
