@@ -120,22 +120,13 @@
   justify-content: center;
 }
 
-#wel {
-  position:absolute;
-  top: 108px;
-  left: 278px;
+body {
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
 }
-@media screen and (min-width: 700px) {
- #wel {
-     position:absolute;
-     top: 108px;
-     left: 250px;
- }
-}
-@media screen and (min-width:701px) and (max-width: 1600px) {
- #wel {
-     position:absolute;
-     top: 108px;
-     left: 400px;
- }
+
+div {
+  width: 100vw;
+  height: 100vh;
 }
